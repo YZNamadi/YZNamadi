@@ -3,9 +3,9 @@
 # Hi, I'm Amadi Emmanuel (YZNamadi) 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
 ---
@@ -26,16 +26,9 @@
 
 ---
 
-## 🎮 Language Score
-<!--LANGUAGE_SCORE_START-->
-Your language score will appear here!
-<!--LANGUAGE_SCORE_END-->
-
----
-
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-First, solve the problem. Then, write the code. — John Johnson
+A random programming quote will appear here!
 <!--QUOTE_END-->
 
 ---

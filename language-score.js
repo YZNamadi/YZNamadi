@@ -6,7 +6,7 @@ const README_PATH = './README.md';
 const TOKEN = process.env.GITHUB_TOKEN;
 
 async function fetchRepos() {
-  const res = await fetch(`https://api.github.com/users/${GITHUB_USERNAME}/repos?per_page=100`, {
+  const res = await fetch(`https://api.github.com/users/YZNamadi/repos?per_page=100`, {
     headers: { Authorization: `token ${TOKEN}` },
   });
   return res.json();
