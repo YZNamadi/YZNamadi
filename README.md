@@ -1,5 +1,7 @@
 # Hi, I'm Amadi Emmanuel (YZNamadi) 👋
 
+<div align="center">
+
 <!-- Contribution Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
@@ -20,6 +22,8 @@
 [![YZNamadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YZNamadi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://komarev.com/ghpvc/?username=YZNamadi&color=blue)
+
+</div>
 
 ---
 
