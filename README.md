@@ -35,7 +35,7 @@ Your language score will appear here!
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-A random programming quote will appear here!
+First, solve the problem. Then, write the code. — John Johnson
 <!--QUOTE_END-->
 
 ---
