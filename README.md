@@ -28,7 +28,8 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-A random programming quote will appear here!
+Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
+<sub>_Updated: 6/19/2025, 5:34:40 PM_</sub>
 <!--QUOTE_END-->
 
 ---
