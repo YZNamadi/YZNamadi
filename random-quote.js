@@ -15,11 +15,10 @@ const quotes = [
 ];
 
 const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-const now = new Date().toLocaleString();
 
 let readme = fs.readFileSync(README_PATH, 'utf8');
 readme = readme.replace(
   /(<!--QUOTE_START-->)([\s\S]*?)(<!--QUOTE_END-->)/,
-  `$1\n${randomQuote}\n<sub>_Updated: ${now}_</sub>\n$3`
+  `$1\n${randomQuote}\n$3`
 );
 fs.writeFileSync(README_PATH, readme); 
