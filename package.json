@@ -1,0 +1,15 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "<!-- Contribution Snake Animation -->\r <picture>\r   <source media=\"(prefers-color-scheme: dark)\" srcset=\"dist/github-snake-dark.svg\" />\r   <source media=\"(prefers-color-scheme: light)\" srcset=\"dist/github-snake.svg\" />\r   <img alt=\"github-snake\" src=\"dist/github-snake.svg\" />\r </picture>",
+  "main": "language-score.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
