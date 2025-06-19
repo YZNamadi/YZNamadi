@@ -28,8 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
-<sub>_Updated: 6/19/2025, 5:34:40 PM_</sub>
+Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away. — Antoine de Saint-Exupery
 <!--QUOTE_END-->
 
 ---
