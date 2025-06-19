@@ -1,0 +1,32 @@
+name: Update Language Score
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # every day at midnight UTC
+  push:
+    paths:
+      - 'language-score.js'
+      - 'README.md'
+
+jobs:
+  update-language-score:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Install dependencies
+        run: npm install node-fetch@2
+      - name: Run language score script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node language-score.js
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update language score [bot]' || echo 'No changes to commit'
+          git push 
