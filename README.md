@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Java is to JavaScript what car is to Carpet. — Chris Heilmann
+Knowledge is power. — Francis Bacon
 <!--QUOTE_END-->
 
 ---
