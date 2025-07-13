@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
+Experience is the name everyone gives to their mistakes. — Oscar Wilde
 <!--QUOTE_END-->
 
 ---
