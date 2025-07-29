@@ -42,4 +42,4 @@ Experience is the name everyone gives to their mistakes. — Oscar Wilde
 
 ---
 
-> _Backend Developer | Node.js | MySQL | MongoDB_ 
+> _Backend Developer | Node.js |TypeScript| MySQL | MongoDB_ 
