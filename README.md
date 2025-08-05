@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
+Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. — Dan Salomon
 <!--QUOTE_END-->
 
 ---
