@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+First, solve the problem. Then, write the code. — John Johnson
 <!--QUOTE_END-->
 
 ---
