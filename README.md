@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away. — Antoine de Saint-Exupery
+Talk is cheap. Show me the code. — Linus Torvalds
 <!--QUOTE_END-->
 
 ---
