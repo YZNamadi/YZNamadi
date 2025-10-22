@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-In order to be irreplaceable, one must always be different. — Coco Chanel
+Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
 <!--QUOTE_END-->
 
 ---
