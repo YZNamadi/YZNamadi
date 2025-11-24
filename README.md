@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Java is to JavaScript what car is to Carpet. — Chris Heilmann
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 <!--QUOTE_END-->
 
 ---
