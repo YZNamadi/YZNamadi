@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Experience is the name everyone gives to their mistakes. — Oscar Wilde
+Knowledge is power. — Francis Bacon
 <!--QUOTE_END-->
 
 ---
