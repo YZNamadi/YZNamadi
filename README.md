@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-In order to be irreplaceable, one must always be different. — Coco Chanel
+First, solve the problem. Then, write the code. — John Johnson
 <!--QUOTE_END-->
 
 ---
