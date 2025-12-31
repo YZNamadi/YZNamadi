@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Java is to JavaScript what car is to Carpet. — Chris Heilmann
+Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away. — Antoine de Saint-Exupery
 <!--QUOTE_END-->
 
 ---
