@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-In order to be irreplaceable, one must always be different. — Coco Chanel
+Java is to JavaScript what car is to Carpet. — Chris Heilmann
 <!--QUOTE_END-->
 
 ---
