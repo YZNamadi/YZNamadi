@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Experience is the name everyone gives to their mistakes. — Oscar Wilde
+In order to be irreplaceable, one must always be different. — Coco Chanel
 <!--QUOTE_END-->
 
 ---
