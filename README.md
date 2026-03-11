@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-In order to be irreplaceable, one must always be different. — Coco Chanel
+Talk is cheap. Show me the code. — Linus Torvalds
 <!--QUOTE_END-->
 
 ---
