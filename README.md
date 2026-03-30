@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. — Dan Salomon
+Talk is cheap. Show me the code. — Linus Torvalds
 <!--QUOTE_END-->
 
 ---
