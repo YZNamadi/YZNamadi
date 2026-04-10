@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-In order to be irreplaceable, one must always be different. — Coco Chanel
+Experience is the name everyone gives to their mistakes. — Oscar Wilde
 <!--QUOTE_END-->
 
 ---
