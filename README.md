@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Knowledge is power. — Francis Bacon
+First, solve the problem. Then, write the code. — John Johnson
 <!--QUOTE_END-->
 
 ---
