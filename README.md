@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-First, solve the problem. Then, write the code. — John Johnson
+Java is to JavaScript what car is to Carpet. — Chris Heilmann
 <!--QUOTE_END-->
 
 ---
