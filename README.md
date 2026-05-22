@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-First, solve the problem. Then, write the code. — John Johnson
+Experience is the name everyone gives to their mistakes. — Oscar Wilde
 <!--QUOTE_END-->
 
 ---
