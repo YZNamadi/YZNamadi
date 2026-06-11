@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Java is to JavaScript what car is to Carpet. — Chris Heilmann
+In order to be irreplaceable, one must always be different. — Coco Chanel
 <!--QUOTE_END-->
 
 ---
