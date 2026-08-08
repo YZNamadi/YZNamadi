@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Knowledge is power. — Francis Bacon
+In order to be irreplaceable, one must always be different. — Coco Chanel
 <!--QUOTE_END-->
 
 ---
