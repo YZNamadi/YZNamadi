@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Knowledge is power. — Francis Bacon
+Talk is cheap. Show me the code. — Linus Torvalds
 <!--QUOTE_END-->
 
 ---
