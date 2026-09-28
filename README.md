@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-In order to be irreplaceable, one must always be different. — Coco Chanel
+Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. — Dan Salomon
 <!--QUOTE_END-->
 
 ---
