@@ -28,7 +28,7 @@
 
 ## 💬 Random Programming Quote
 <!--QUOTE_START-->
-Java is to JavaScript what car is to Carpet. — Chris Heilmann
+Experience is the name everyone gives to their mistakes. — Oscar Wilde
 <!--QUOTE_END-->
 
 ---
